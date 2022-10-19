@@ -1,0 +1,16 @@
+.heading
+{
+width: 100%;
+}
+#instructions
+{
+    float: right;
+    margin-top: 0%;
+    padding: 10px;
+}
+
+h3
+{
+    background-color: aliceblue;
+    margin-bottom: 0px;
+}
